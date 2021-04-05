@@ -1,8 +1,13 @@
 # 50 Small Projects in 50 days
 
+- Files for each project starter : [_project_starter_](_project_starter_)
+
 1. [Expanding Cards](expanding-cards)
-2. []()
-3. []()
+
+2. [Progress Steps](progress-steps)
+
+3. [Rotating Navigation Article Page](rotating-navigation)
+
 4. []()
 5. []()
 6. []()
