@@ -8,7 +8,8 @@
 
 3. [Rotating Navigation Article Page](rotating-navigation)
 
-4. []()
+4. [Hidden Search Form Button](hidden-search)
+
 5. []()
 6. []()
 7. []()
