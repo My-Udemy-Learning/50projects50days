@@ -10,8 +10,9 @@
 
 4. [Hidden Search Form Button](hidden-search)
 
-5. []()
-6. []()
+5. [Blurry Loading Photo](blurry-loading)
+
+6. [Scroll Animation](scroll-animation)
 7. []()
 8. []()
 9. []()
