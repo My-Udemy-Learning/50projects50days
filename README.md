@@ -13,7 +13,11 @@
 5. [Blurry Loading Photo](blurry-loading)
 
 6. [Scroll Animation](scroll-animation)
-7. []()
-8. []()
-9. []()
-10. []()
+
+7. [Split Landing Page](split-landing-page)
+
+8. [Form Input Wave]()
+
+9. [Sound Board]()
+
+10. [Dad Jokes]()
