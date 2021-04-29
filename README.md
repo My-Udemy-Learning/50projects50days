@@ -1,5 +1,13 @@
 # 50 Small Projects - HTML/CSS and JavaScript
 
+## What I Learned
+
+- Basic DOM manipulation
+- Better understanding of CSS
+- Sharpen skills in HTML, CSS & JavaScript
+- Modern styling with flexbox, CSS animations, custom properties, etc
+- DOM manipulation, events, array methods, HTTP requests
+
 |  #  | Project                                                                                                              | Live Demo                                                              |
 | :-: | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | 00  | [Project Starter - HTML, CSS, JS](https://github.com/My-Udemy-Learning/50projects50days/tree/main/_project_starter_) | [Live Demo](http://127.0.0.1:5500/_project_starter_/index.html)        |
@@ -21,9 +29,9 @@
 | 16  | [Drink Water](https://github.com/My-Udemy-Learning/50projects50days/tree/main/drink-water)                           | [Live Demo](http://127.0.0.1:5500/drink-water/index.html)              |
 | 17  | [Movie App](https://github.com/My-Udemy-Learning/50projects50days/tree/main/movie-app)                               | [Live Demo](http://127.0.0.1:5500/movie-app/index.html)                |
 | 18  | [Background Slider](https://github.com/My-Udemy-Learning/50projects50days/tree/main/background-slider)               | [Live Demo](http://127.0.0.1:5500/background-slider/index.html)        |
-| 19  | [Theme Clock]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/theme-clock/index.html)              |
-| 20  | [Button Ripple Effect]()                                                                                             | [Live Demo](http://127.0.0.1:5500/button-ripple-effect/index.html)     |
-| 21  | [Drag N Drop]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/drag-n-drop/index.html)              |
+| 19  | [Theme Clock](https://github.com/My-Udemy-Learning/50projects50days/tree/main/theme-clock)                           | [Live Demo](http://127.0.0.1:5500/theme-clock/index.html)              |
+| 20  | [Button Ripple Effect](https://github.com/My-Udemy-Learning/50projects50days/tree/main/button-ripple-effect)         | [Live Demo](http://127.0.0.1:5500/button-ripple-effect/index.html)     |
+| 21  | [Drag N Drop](https://github.com/My-Udemy-Learning/50projects50days/tree/main/drag-n-drop)                           | [Live Demo](http://127.0.0.1:5500/drag-n-drop/index.html)              |
 | 22  | [Drawing App]()                                                                                                      | [Live Demo]()                                                          |
 | 23  | [Kinetic Loader]()                                                                                                   | [Live Demo]()                                                          |
 | 24  | [Content Placeholder]()                                                                                              | [Live Demo]()                                                          |
