@@ -19,11 +19,11 @@
 | 14  | [Animated Navigation](https://github.com/My-Udemy-Learning/50projects50days/tree/main/animated-navigation)           | [Live Demo](http://127.0.0.1:5500/animated-navigation/index.html#)     |
 | 15  | [Incrementing Counter](https://github.com/My-Udemy-Learning/50projects50days/tree/main/incrementing-counter)         | [Live Demo](http://127.0.0.1:5500/incrementing-counter/index.html)     |
 | 16  | [Drink Water](https://github.com/My-Udemy-Learning/50projects50days/tree/main/drink-water)                           | [Live Demo](http://127.0.0.1:5500/drink-water/index.html)              |
-| 17  | [Movie App]()                                                                                                        | [Live Demo](http://127.0.0.1:5500/movie-app/index.html)                |
-| 18  | [Background Slider]()                                                                                                | [Live Demo](http://127.0.0.1:5500/background-slider/index.html)        |
-| 19  | [Theme Clock]()                                                                                                      | [Live Demo]()                                                          |
-| 20  | [Button Ripple Effect]()                                                                                             | [Live Demo]()                                                          |
-| 21  | [Drag N Drop]()                                                                                                      | [Live Demo]()                                                          |
+| 17  | [Movie App](https://github.com/My-Udemy-Learning/50projects50days/tree/main/movie-app)                               | [Live Demo](http://127.0.0.1:5500/movie-app/index.html)                |
+| 18  | [Background Slider](https://github.com/My-Udemy-Learning/50projects50days/tree/main/background-slider)               | [Live Demo](http://127.0.0.1:5500/background-slider/index.html)        |
+| 19  | [Theme Clock]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/theme-clock/index.html)              |
+| 20  | [Button Ripple Effect]()                                                                                             | [Live Demo](http://127.0.0.1:5500/button-ripple-effect/index.html)     |
+| 21  | [Drag N Drop]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/drag-n-drop/index.html)              |
 | 22  | [Drawing App]()                                                                                                      | [Live Demo]()                                                          |
 | 23  | [Kinetic Loader]()                                                                                                   | [Live Demo]()                                                          |
 | 24  | [Content Placeholder]()                                                                                              | [Live Demo]()                                                          |
