@@ -15,10 +15,10 @@
 | 10  | [Dad Jokes](https://github.com/My-Udemy-Learning/50projects50days/tree/main/dad-jokes)                               | [Live Demo](http://127.0.0.1:5500/dad-jokes/index.html)                |
 | 11  | [Event Keycodes](https://github.com/My-Udemy-Learning/50projects50days/tree/main/key-codes)                          | [Live Demo](http://127.0.0.1:5500/key-codes/index.html)                |
 | 12  | [Faq Collapse](https://github.com/My-Udemy-Learning/50projects50days/tree/main/faq-collapse)                         | [Live Demo](http://127.0.0.1:5500/faq-collapse/index.html)             |
-| 13  | [Random Choice Picker]()                                                                                             | [Live Demo](http://127.0.0.1:5500/random-choice-picker/index.html)     |
-| 14  | [Animated Navigation]()                                                                                              | [Live Demo](http://127.0.0.1:5500/animated-navigation/index.html#)     |
-| 15  | [Incrementing Counter]()                                                                                             | [Live Demo]()                                                          |
-| 16  | [Drink Water]()                                                                                                      | [Live Demo]()                                                          |
+| 13  | [Random Choice Picker](https://github.com/My-Udemy-Learning/50projects50days/tree/main/random-choice-picker)         | [Live Demo](http://127.0.0.1:5500/random-choice-picker/index.html)     |
+| 14  | [Animated Navigation](https://github.com/My-Udemy-Learning/50projects50days/tree/main/animated-navigation)           | [Live Demo](http://127.0.0.1:5500/animated-navigation/index.html#)     |
+| 15  | [Incrementing Counter]()                                                                                             | [Live Demo](http://127.0.0.1:5500/incrementing-counter/index.html)     |
+| 16  | [Drink Water]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/drink-water/index.html)              |
 | 17  | [Movie App]()                                                                                                        | [Live Demo]()                                                          |
 | 18  | [Background Slider]()                                                                                                | [Live Demo]()                                                          |
 | 19  | [Theme Clock]()                                                                                                      | [Live Demo]()                                                          |
