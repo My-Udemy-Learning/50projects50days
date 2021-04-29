@@ -12,9 +12,9 @@
 | 07  | [Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page)                | [Live Demo](https://50projects50days.com/projects/split-landing-page/) |
 | 08  | [Form Input Wave](https://github.com/My-Udemy-Learning/50projects50days/tree/main/form-input-wave)                   | [Live Demo](http://127.0.0.1:5500/form-input-wave/index.html)          |
 | 09  | [Sound Board](https://github.com/My-Udemy-Learning/50projects50days/tree/main/sound-board)                           | [Live Demo](http://127.0.0.1:5500/sound-board/index.html)              |
-| 10  | [Dad Jokes]()                                                                                                        | [Live Demo]()                                                          |
-| 11  | [Event Keycodes]()                                                                                                   | [Live Demo]()                                                          |
-| 12  | [Faq Collapse]()                                                                                                     | [Live Demo]()                                                          |
+| 10  | [Dad Jokes](https://github.com/My-Udemy-Learning/50projects50days/tree/main/dad-jokes)                               | [Live Demo](http://127.0.0.1:5500/dad-jokes/index.html)                |
+| 11  | [Event Keycodes](https://github.com/My-Udemy-Learning/50projects50days/tree/main/key-codes)                          | [Live Demo](http://127.0.0.1:5500/key-codes/index.html)                |
+| 12  | [Faq Collapse]()                                                                                                     | [Live Demo](http://127.0.0.1:5500/faq-collapse/index.html)             |
 | 13  | [Random Choice Picker]()                                                                                             | [Live Demo]()                                                          |
 | 14  | [Animated Navigation]()                                                                                              | [Live Demo]()                                                          |
 | 15  | [Incrementing Counter]()                                                                                             | [Live Demo]()                                                          |
