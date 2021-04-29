@@ -16,8 +16,8 @@
 
 7. [Split Landing Page](split-landing-page)
 
-8. [Form Input Wave]()
+8. [Form Input Wave](form-input-wave)
 
-9. [Sound Board]()
+9. [Sound Board](sound-board)
 
 10. [Dad Jokes]()
