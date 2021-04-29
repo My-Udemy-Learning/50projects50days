@@ -17,10 +17,10 @@
 | 12  | [Faq Collapse](https://github.com/My-Udemy-Learning/50projects50days/tree/main/faq-collapse)                         | [Live Demo](http://127.0.0.1:5500/faq-collapse/index.html)             |
 | 13  | [Random Choice Picker](https://github.com/My-Udemy-Learning/50projects50days/tree/main/random-choice-picker)         | [Live Demo](http://127.0.0.1:5500/random-choice-picker/index.html)     |
 | 14  | [Animated Navigation](https://github.com/My-Udemy-Learning/50projects50days/tree/main/animated-navigation)           | [Live Demo](http://127.0.0.1:5500/animated-navigation/index.html#)     |
-| 15  | [Incrementing Counter]()                                                                                             | [Live Demo](http://127.0.0.1:5500/incrementing-counter/index.html)     |
-| 16  | [Drink Water]()                                                                                                      | [Live Demo](http://127.0.0.1:5500/drink-water/index.html)              |
-| 17  | [Movie App]()                                                                                                        | [Live Demo]()                                                          |
-| 18  | [Background Slider]()                                                                                                | [Live Demo]()                                                          |
+| 15  | [Incrementing Counter](https://github.com/My-Udemy-Learning/50projects50days/tree/main/incrementing-counter)         | [Live Demo](http://127.0.0.1:5500/incrementing-counter/index.html)     |
+| 16  | [Drink Water](https://github.com/My-Udemy-Learning/50projects50days/tree/main/drink-water)                           | [Live Demo](http://127.0.0.1:5500/drink-water/index.html)              |
+| 17  | [Movie App]()                                                                                                        | [Live Demo](http://127.0.0.1:5500/movie-app/index.html)                |
+| 18  | [Background Slider]()                                                                                                | [Live Demo](http://127.0.0.1:5500/background-slider/index.html)        |
 | 19  | [Theme Clock]()                                                                                                      | [Live Demo]()                                                          |
 | 20  | [Button Ripple Effect]()                                                                                             | [Live Demo]()                                                          |
 | 21  | [Drag N Drop]()                                                                                                      | [Live Demo]()                                                          |
